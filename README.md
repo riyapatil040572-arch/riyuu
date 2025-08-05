@@ -8,6 +8,5 @@
     <a href="https://kcesimr.in" target="_blank">
     <img src="imr.PNG" alt="IMR Logo">
 </a>
-Explana
 </body>
 </html>
